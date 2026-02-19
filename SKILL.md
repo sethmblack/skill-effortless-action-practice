@@ -3,8 +3,9 @@ name: effortless-action-practice
 description: A methodology for achieving mastery through wu-wei — action so attuned to natural patterns that it becomes effortless, derived from Zhuangzi's famous parable of Cook Ding and the skill stories of a...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3882
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - effortless-action-practice
 - storytelling
